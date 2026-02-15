@@ -48,4 +48,19 @@ npm install
 npm run dev
 ```
 
-📸 Screenshots
+
+
+# 📸 Screenshots
+
+## 💬 Chat Interface
+![Chat Page](./screenshots/chat_page.png)
+
+## 💬 Live Messaging
+![Chat Page 2](./screenshots/chat_page2.png)
+
+## 🔐 Login Page
+![Login](./screenshots/login.png)
+
+## 📝 Signup Page
+![Signup](./screenshots/signup.png)
+
